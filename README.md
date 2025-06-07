@@ -15,10 +15,9 @@
     </div>
     <div align="center"> 
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=soomkim00&custom_title=Sumin%20Kim's%20Github%20Stat&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=86400" />
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soomkim00&show_icons=true&theme=github_dark )
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=86400" />
     </div>
 
 </div>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soomkim00&show_icons=true&theme=github_dark )
