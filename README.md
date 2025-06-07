@@ -17,6 +17,7 @@
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=soomkim00&custom_title=Sumin%20Kim's%20Github%20Stat&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=86400" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=86400" />
+      [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{cm14121453})
     </div>
 
 </div>
