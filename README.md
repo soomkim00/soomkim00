@@ -22,7 +22,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=86400" />
       </div>
       <div>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cm14121453)](https://solved.ac/cm14121453)
+[![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=cm14121453)](https://solved.ac/cm14121453)
         <img src="http://mazandi.herokuapp.com/api?handle=cm14121453&theme=dark"/>
       </div>
     </div>
