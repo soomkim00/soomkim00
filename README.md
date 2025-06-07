@@ -11,12 +11,12 @@
     />
 </span>
 
-<pspan>
+<span>
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&hide_border=true&theme=transparent"
     alt="Top Langs"
 />
-</pspan>
+</span>
 
 <span>
   <img src="https://mazandi.herokuapp.com/api?handle=cm14121453&theme=dark" alt="Solved.ac Tier graph"/>
