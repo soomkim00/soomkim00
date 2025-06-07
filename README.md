@@ -18,12 +18,6 @@
 />
 </span>
 
-<span>
-  <img src="https://mazandi.herokuapp.com/api?handle=cm14121453&theme=dark" alt="Solved.ac Tier graph"/>
-</span>
-
-
-
 <p>
     <!-- Languages -->
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
