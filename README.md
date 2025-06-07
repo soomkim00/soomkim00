@@ -1,10 +1,28 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+<span>
+  <h2> 📚 Sumin’s GitHub 
 
-  <!-- 1번 파트 -->
-  <div style="max-width: 45%;">
-<h2> 📚 Sumin’s GitHub 
+  [![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=cm14121453)](https://solved.ac/cm14121453)
+</span>
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=cm14121453)](https://solved.ac/cm14121453)
+<span>
+  <img
+        src="https://github-readme-stats.vercel.app/api?username=soomkim00&show_icons=true&include_all_commits=true&hide_rank=false&hide_border=true&theme=transparent"
+        alt="GitHub stats"
+    />
+</span>
+
+<pspan>
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Langs"
+/>
+</pspan>
+
+<span>
+  <img src="https://mazandi.herokuapp.com/api?handle=cm14121453&theme=dark" alt="Solved.ac Tier graph"/>
+</span>
+
+
 
 <p>
     <!-- Languages -->
@@ -20,28 +38,3 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
-  </div>
-
-  <!-- 2번 파트 -->
-  <div style="max-width: 45%;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=soomkim00&show_icons=true&include_all_commits=true&hide_rank=false&hide_border=true&theme=transparent"
-      alt="GitHub stats"
-    /><br>
-  </div>
-
-  <!-- 3번 파트 -->
-  <div style="max-width: 45%;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&hide_border=true&theme=transparent"
-      alt="Top Langs"
-    />
-  </div>
-
-  <!-- 4번 파트 -->
-  <div style="max-width: 45%;">
-    <img src="https://mazandi.herokuapp.com/api?handle=cm14121453&theme=dark" alt="Solved.ac Tier graph"/>
-  </div>
-
-</div>
-
