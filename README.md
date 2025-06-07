@@ -1,31 +1,26 @@
-<div style="display: flex; gap: 16px; align-items: center;">
-  <span>
-    <h2> 📚 Sumin’s GitHub 
-    <br>
-    <a href="https://solved.ac/cm14121453">
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=cm14121453" alt="Solved.ac Profile"/>
-    </a>
-    </h2>
-  </span>
-  <span>
-    <img
-          src="https://github-readme-stats.vercel.app/api?username=soomkim00&show_icons=true&include_all_commits=true&hide_rank=false&hide_border=true&theme=transparent"
-          alt="GitHub stats"
-      />
-  </span>
-</div>
+<span>
+  <h2> 📚 Sumin’s GitHub 
 
-<div style="display: flex; gap: 16px; align-items: center; margin-top: 8px;">
-  <span>
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&hide_border=true&theme=transparent"
-        alt="Top Langs"
+  [![Solved.ac Profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=cm14121453)](https://solved.ac/cm14121453)
+</span>
+
+<span>
+  <img
+        src="https://github-readme-stats.vercel.app/api?username=soomkim00&show_icons=true&include_all_commits=true&hide_rank=false&hide_border=true&theme=transparent"
+        alt="GitHub stats"
     />
-  </span>
-  <span>
-    <img src="https://mazandi.herokuapp.com/api?handle=cm14121453&theme=dark" alt="Solved.ac Tier graph"/>
-  </span>
-</div>
+</span>
+
+<span>
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Langs"
+/>
+</span>
+
+<span>
+  <img src="https://mazandi.herokuapp.com/api?handle=cm14121453&theme=dark" alt="Solved.ac Tier graph"/>
+</span>
 
 
 
