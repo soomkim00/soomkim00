@@ -1,4 +1,4 @@
-## Sumin kim
+## Sumin Kim
 
 ### 🎇 Welcome World!
 
