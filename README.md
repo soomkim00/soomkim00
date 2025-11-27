@@ -27,11 +27,11 @@
 ## 🏆 Awards
 🥇 삼성 청년 SW 아카데미 13기 <a href="https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_content_cd=C0102&p_menu_cd=M0102&p_process=select-content-view">1학기 코딩 집중 과정</a> 종합 성적 **최우수상** (2025.05.30) <br>
 
-🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/gyudol/voida" target="_blank">2학기 공통 프로젝트</a> **최우수상** (2025.08.18) <br>
+🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/soomkim00/voida" target="_blank">2학기 공통 프로젝트</a> **최우수상** (2025.08.18) <br>
 
-🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/gyudol/voida" target="_blank">2학기 특화 프로젝트</a> **최우수상** (2025.09.29) <br>
+🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/soomkim00/oasis" target="_blank">2학기 특화 프로젝트</a> **최우수상** (2025.09.29) <br>
 
-🥉 삼성 청년 SW 아카데미 13기 <a href="https://github.com/gyudol/voida" target="_blank">2학기 자율 프로젝트</a> **우수상** (2025.11.20) <br>
+🥉 삼성 청년 SW 아카데미 13기 <a href="https://github.com/soomkim00/voida" target="_blank">2학기 자율 프로젝트</a> **우수상** (2025.11.20) <br>
 
 <br>
 
