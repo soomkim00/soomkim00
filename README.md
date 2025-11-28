@@ -31,8 +31,6 @@
 
 🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/soomkim00/oasis" target="_blank">2학기 특화 프로젝트</a> **최우수상** (2025.09.29) <br>
 
-🥉 삼성 청년 SW 아카데미 13기 <a href="https://github.com/soomkim00/voida" target="_blank">2학기 자율 프로젝트</a> **우수상** (2025.11.20) <br>
-
 <br>
 
 ## 🛠 Skills
