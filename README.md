@@ -14,7 +14,7 @@
 </span>
 
 ## ⚙ Projects
-🧠 <a href="https://github.com/soomkim00/voida" target="_blank">세컨드브레인 (SECOND BRAIN)</a> : LLM과 **지식 그래프**를 활용한 **개인지식관리(PKM) 서비스** <br>
+🧠 <a href="https://github.com/Yu-Noh-KimLeePark/Second-Brain" target="_blank">세컨드브레인 (SECOND BRAIN)</a> : LLM과 **지식 그래프**를 활용한 **개인지식관리(PKM) 서비스** <br>
 
 🔊 <a href="https://github.com/soomkim00/voida" target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
 
