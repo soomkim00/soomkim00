@@ -25,11 +25,11 @@
 <br>
 
 ## 🏆 Awards
-🥇 삼성 청년 SW 아카데미 13기 <a href="https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_content_cd=C0102&p_menu_cd=M0102&p_process=select-content-view">1학기 코딩 집중 과정</a> 종합 성적 **최우수상** (2025.05.30) <br>
+🥇 삼성 청년 SW AI 아카데미 13기 <a href="https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_content_cd=C0102&p_menu_cd=M0102&p_process=select-content-view">1학기 코딩 집중 과정</a> 종합 성적 **최우수상** (2025.05.30) <br>
 
-🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/soomkim00/voida" target="_blank">2학기 공통 프로젝트</a> **최우수상** (2025.08.18) <br>
+🥇 삼성 청년 SW AI 아카데미 13기 <a href="https://github.com/soomkim00/voida" target="_blank">2학기 공통 프로젝트</a> **최우수상** (2025.08.18) <br>
 
-🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/soomkim00/oasis" target="_blank">2학기 특화 프로젝트</a> **최우수상** (2025.09.29) <br>
+🥇 삼성 청년 SW AI 아카데미 13기 <a href="https://github.com/soomkim00/oasis" target="_blank">2학기 특화 프로젝트</a> **최우수상** (2025.09.29) <br>
 
 <br>
 
@@ -55,7 +55,7 @@
 <table>
   <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
     <tr> <td>아시아창업엑스포 FLY ASIA 2025 포스터 부문 참석</td> <td>2025.09.22 ~ 2025.09.23</td><td align="center"><a href="https://github.com/soomkim00/voida" target="_blank">보이다 (VOIDA)</a></td>
-  <tr> <td>삼성 청년 SW AI아카데미 <a href="https://www.ssafy.com" target="_blank">SSAFY</a> 13기 이수</td> <td>2025.01.07 ~ 2025.12.31</td> <td align="center">- 삼성 SW 역량 테스트 <strong>A+ 등급</strong> 취득<br></td> </tr>
+  <tr> <td>삼성 청년 SW AI 아카데미 <a href="https://www.ssafy.com" target="_blank">SSAFY</a> 13기 이수</td> <td>2025.01.07 ~ 2025.12.31</td> <td align="center">- 삼성 SW 역량 테스트 <strong>A+ 등급</strong> 취득<br></td> </tr>
   <tr> <td>부산대학교 <a href="https://ie.pusan.ac.kr/ie/index.do" target="_blank">산업공학과</a> 졸업<br> 부산대학교 SW융합연계전공 <a href="https://swedu.pusan.ac.kr/swedu/69741/subview.do" target="_blank">빅데이터 연계전공</a> 졸업</td> <td>2017.03.02 ~ 2024.02.19</td> <td align="center">- 산업공학 + 정보컴퓨터공학 연계전공</td> </tr>
   <tr> <td>부산동인고등학교 졸업</td> <td>2014.03.03 ~ 2017.02.14</td> <td align="center">·</td> </tr>
 </table>
