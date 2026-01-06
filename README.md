@@ -6,12 +6,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cm14121453)](https://solved.ac/cm14121453/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkgkgkgk22)](https://solved.ac/gkgkgkgk22/) 
-<span>
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomkim00&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Langs"
-/>
-</span>
 
 ## ⚙ Projects
 🧠 <a href="https://github.com/Yu-Noh-KimLeePark/Second-Brain" target="_blank">세컨드브레인 (SECOND BRAIN)</a> : LLM과 **지식 그래프**를 활용한 **개인지식관리(PKM) 서비스** <br>
