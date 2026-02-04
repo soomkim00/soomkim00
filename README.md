@@ -30,6 +30,8 @@
 <br>
 
 ## 🛠 Skills
+<details>
+<summary>🔍 <strong>View Detail</strong></summary>
 <div align="center"> <br>
 
 | 분류 | 기술 스택 |
@@ -44,7 +46,9 @@
 | **<div align="center">⚙️ DevOps</div>** | <div align="center">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</div> |
 | **<div align="center">🤝 Collaboration</div>** | <div align="center">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Mattermost](https://img.shields.io/badge/Mattermost-000000?style=for-the-badge&logo=Mattermost&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)</div> |
 
-</div> <br>
+</div>
+</details>
+<br>
 
 ## 🎓 Education
 <div align="center">
