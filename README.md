@@ -61,6 +61,14 @@
 </table>
 </div>
 
+## 💳 Licenses
+<div align="center">
+<table>
+  <tr> <th>자격종목</th> <th>시행기관</th> <th>합격일자</th> </tr>
+  <tr> <td align="center">SQLD (SQL 개발자)</td> <td align="center">한국데이터산업진흥원</td> <td>2026.03.07</td> </tr>
+</table>
+</div>
+
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cm14121453@gmail.com)](mailto:cm14121453@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gkgkgkgk22@naver.com)](mailto:gkgkgkgk22@naver.com)
