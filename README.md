@@ -4,7 +4,6 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cm14121453)](https://solved.ac/cm14121453/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkgkgkgk22)](https://solved.ac/gkgkgkgk22/) 
 
 ## ⚙ Projects
