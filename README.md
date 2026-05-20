@@ -28,6 +28,16 @@
 
 <br>
 
+## 💼 Career
+<div align="center">
+<table>
+  <tr> <th>기업명</th> <th>기간</th> <th>직무 / 직책</th> <th>비고</th> </tr>
+  <tr> <td><a href="https://www.samwooim.com/" target="_blank">(주)삼우이머션</a> </td> <td>2026.03.18 ~ </td> <td align="center">MS개발팀 / 연구원</td> <td align="center">.</td> </tr>
+</table>
+</div>
+
+<br>
+
 ## 🛠 Skills
 <details>
 <summary>🔍 <strong>View Detail</strong></summary>
