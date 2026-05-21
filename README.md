@@ -25,7 +25,7 @@
 🥇 삼성 청년 SW AI 아카데미 13기 <a href="https://github.com/soomkim00/voida" target="_blank">2학기 공통 프로젝트</a> **최우수상** (2025.08.18) <br>
 
 🥇 삼성 청년 SW AI 아카데미 13기 <a href="https://github.com/soomkim00/oasis" target="_blank">2학기 특화 프로젝트</a> **최우수상** (2025.09.29) <br>
-
+<!--
 <br>
 
 ## 💼 Career
@@ -35,7 +35,7 @@
   <tr> <td><a href="https://www.samwooim.com/" target="_blank">(주)삼우이머션</a> </td> <td>2026.03.18 ~ </td> <td align="center">MS개발팀 / 연구원</td> <td align="center">.</td> </tr>
 </table>
 </div>
-
+-->
 <br>
 
 ## 🛠 Skills
